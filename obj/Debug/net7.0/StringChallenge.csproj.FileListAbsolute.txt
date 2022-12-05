@@ -1,0 +1,15 @@
+/Users/hugobler/Coding/C#/StringChallenge/obj/Debug/net7.0/StringChallenge.csproj.AssemblyReference.cache
+/Users/hugobler/Coding/C#/StringChallenge/obj/Debug/net7.0/StringChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugobler/Coding/C#/StringChallenge/obj/Debug/net7.0/StringChallenge.AssemblyInfoInputs.cache
+/Users/hugobler/Coding/C#/StringChallenge/obj/Debug/net7.0/StringChallenge.AssemblyInfo.cs
+/Users/hugobler/Coding/C#/StringChallenge/obj/Debug/net7.0/StringChallenge.csproj.CoreCompileInputs.cache
+/Users/hugobler/Coding/C#/StringChallenge/bin/Debug/net7.0/StringChallenge
+/Users/hugobler/Coding/C#/StringChallenge/bin/Debug/net7.0/StringChallenge.deps.json
+/Users/hugobler/Coding/C#/StringChallenge/bin/Debug/net7.0/StringChallenge.runtimeconfig.json
+/Users/hugobler/Coding/C#/StringChallenge/bin/Debug/net7.0/StringChallenge.dll
+/Users/hugobler/Coding/C#/StringChallenge/bin/Debug/net7.0/StringChallenge.pdb
+/Users/hugobler/Coding/C#/StringChallenge/obj/Debug/net7.0/StringChallenge.dll
+/Users/hugobler/Coding/C#/StringChallenge/obj/Debug/net7.0/refint/StringChallenge.dll
+/Users/hugobler/Coding/C#/StringChallenge/obj/Debug/net7.0/StringChallenge.pdb
+/Users/hugobler/Coding/C#/StringChallenge/obj/Debug/net7.0/StringChallenge.genruntimeconfig.cache
+/Users/hugobler/Coding/C#/StringChallenge/obj/Debug/net7.0/ref/StringChallenge.dll
